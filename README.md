@@ -11,10 +11,10 @@ Tasks:
 
 2) To build the final image, for each pixel of the output, feed the pixel coordinate through the random forest and color the resulting pixel with the output prediction.
 
-Repeat the experiment for a random forest containing a single decision tree, but with
+3) Repeat the experiment for a random forest containing a single decision tree, but with
 depths 1, 2, 3, 5, 10, and 15.
 
-Repeat the experiment for a random forest of depth 7, but with number of trees equal to
+4) Repeat the experiment for a random forest of depth 7, but with number of trees equal to
 1, 3, 5, 10, and 100.
 
-3) Experiment with different pruning strategies of your choice.
+5) Experiment with different pruning strategies of your choice.
